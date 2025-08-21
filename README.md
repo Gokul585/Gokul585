@@ -66,8 +66,8 @@
 
 - 🔥 Active on **LeetCode**  
   <p align="center">
-    <a href="https://leetcode.com/u/Gokul_r/">
-      <img src="https://leetcard.jacoblin.cool/Gokul_r?ext=heatmap" />
+    <a href="https://leetcode.com/u/Gokul__r/">
+      <img src="https://leetcard.jacoblin.cool/Gokul__r?ext=heatmap" alt="LeetCode Stats" />
     </a>
   </p>
 
@@ -81,8 +81,8 @@
 ## 🔗 Connect With Me
 - 📧 Email: **gokul567gd@gmail.com**  
 - 💼 LinkedIn: [Click here](https://www.linkedin.com/in/gokulakannan-r-583b34281/)  
-- 🖥️ GitHub Stats: [Click to view](https://github.com/gokul-rm)  
-- 🧑‍💻 LeetCode: [Gokul_r](https://leetcode.com/u/Gokul_r/)  
+- 🖥️ GitHub: [Click to view](https://github.com/gokul-rm)  
+- 🧑‍💻 LeetCode: [Gokul__r](https://leetcode.com/u/Gokul__r/)  
 
 ---
 

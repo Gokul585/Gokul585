@@ -36,7 +36,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Gokul585">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gokul585&show_icons=true&count_private=true&theme=radical" />
   </a>
   <a href="https://github.com/your-username">
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
